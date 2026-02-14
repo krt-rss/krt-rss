@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![image alt](https://github.com/krt-rss/krtrss01/blob/f74f7b00e8aaf3d3c58977cfc91bf21a06fce1cb/frieren01.jpg)
+
 <!--
 **krt-rss/krt-rss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
